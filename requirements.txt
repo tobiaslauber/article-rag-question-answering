@@ -1,0 +1,16 @@
+pandas
+numpy==1.26.4
+matplotlib
+seaborn
+langdetect
+langchain-community
+transformers
+faiss-gpu
+sentence-transformers
+nltk
+chromadb
+langchain-chroma
+openai
+deepeval
+langchain
+langchain-chroma
