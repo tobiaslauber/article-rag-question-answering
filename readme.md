@@ -11,7 +11,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline for 
 
 - **`articles/`**  
   Contains the articles converted to `.txt` files to simplify processing and retrieval.
-  The folder gets created, when we run the ArticlesExtractor class. We can find the code in the `RAG.ipynb` notebook in the section __exporing the dataset__.
+  The folder gets created, when we run the ArticlesExtractor class. We can find the code in the `RAG.ipynb` notebook in the section __exporing the dataset__. Is hidden in gitignore.
 
 - **`databases/`**  
   Stores the 12 different vector databases:
